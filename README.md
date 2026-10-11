@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Suryvanshi;Software+Developer;Full-Stack+%7C+Machine+Learning+%7C+Backend" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Suryvanshi;Software+Developer;Data+Science+%7C+Machine+Learning+%7C+Full-Stack" alt="Typing intro" />
 
 <p>
   <a href="https://github.com/rahulsuryvanshi810"><img src="https://img.shields.io/github/followers/rahulsuryvanshi810?label=Follow&style=social" alt="GitHub followers" /></a>
@@ -14,10 +14,24 @@
 ### 👨‍💻 About me
 
 - 🧱 I build end-to-end software: web frontends, REST APIs and the databases behind them
+- 📊 Data science with a causal focus: experiments, uplift modeling and measuring what a model is really worth
 - 🤖 Interested in machine learning and applied AI, especially LLM systems and their safety
 - ⚙️ Enjoy backend engineering: caching, rate limiting, performance and reliability
 - 🌱 Always learning, currently going deeper into system design and Go
 - 🤝 Open to internships and collaboration on interesting projects
+
+---
+
+### 🚀 Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 📈 [**uplift-targeting**](https://github.com/rahulsuryvanshi810/uplift-targeting) | Causal uplift modeling on a 64k-customer randomized e-mail experiment. Finds who buys *because of* the e-mail; the selected policy captures **75% of the lift with 50% of the e-mails**. | Python, scikit-learn, pandas |
+| 🛡️ [**llm-redteam**](https://github.com/rahulsuryvanshi810/llm-redteam) | Red-teaming harness for LLMs: prompt-injection suites, canary-based judging, bootstrap CIs, defense comparison | Python |
+| 🔀 [**llm-gateway**](https://github.com/rahulsuryvanshi810/llm-gateway) | LLM API gateway with Redis caching and rate limiting, API keys, input/output guardrails | TypeScript, Fastify, Redis, Postgres |
+| 🚦 [**sentinel-gateway**](https://github.com/rahulsuryvanshi810/sentinel-gateway) | API gateway with a distributed rate limiter on Redis Lua scripts, load balancing, circuit breaking | Node.js, Redis, Prometheus |
+| 👥 [**codesync**](https://github.com/rahulsuryvanshi810/codesync) | Real-time collaborative code editor: CRDT sync, live cursors, offline editing, sandboxed execution | JavaScript, Yjs, WebSockets |
+| ⭐ [**store-rating-platform**](https://github.com/rahulsuryvanshi810/store-rating-platform) | Full-stack store rating platform with role-based auth | React, Express, PostgreSQL |
 
 ---
 
