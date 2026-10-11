@@ -33,6 +33,8 @@
 | 👥 [**codesync**](https://github.com/rahulsuryvanshi810/codesync) | Real-time collaborative code editor: CRDT sync, live cursors, offline editing, sandboxed execution | JavaScript, Yjs, WebSockets |
 | ⭐ [**store-rating-platform**](https://github.com/rahulsuryvanshi810/store-rating-platform) | Full-stack store rating platform with role-based auth | React, Express, PostgreSQL |
 
+📁 **Full list with details of every project:** [my-projects](https://github.com/rahulsuryvanshi810/my-projects)
+
 ---
 
 ### 🛠️ Tech stack
