@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Suryvanshi;Software+Developer;Data+Science+%7C+Machine+Learning+%7C+Full-Stack" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Suryvanshi;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+pandas+%7C+A%2FB+Testing" alt="Typing intro" />
 
 <p>
   <a href="https://github.com/rahulsuryvanshi810"><img src="https://img.shields.io/github/followers/rahulsuryvanshi810?label=Follow&style=social" alt="GitHub followers" /></a>
@@ -13,12 +13,12 @@
 
 ### 👨‍💻 About me
 
-- 🧱 I build end-to-end software: web frontends, REST APIs and the databases behind them
-- 📊 Data science with a causal focus: experiments, uplift modeling and measuring what a model is really worth
-- 🤖 Interested in machine learning and applied AI, especially LLM systems and their safety
-- ⚙️ Enjoy backend engineering: caching, rate limiting, performance and reliability
-- 🌱 Always learning, currently going deeper into system design and Go
-- 🤝 Open to internships and collaboration on interesting projects
+- 📊 Aspiring **Data Analyst**: I turn data into clear business decisions
+- 🧪 Experiment analysis: A/B tests, confidence intervals, uplift modeling and measuring what a model is really worth
+- 🐍 Python (pandas, NumPy, Matplotlib, scikit-learn) and SQL
+- 🎓 Final-year Computer Engineering (Data Science), graduating 2027
+- 🧱 I also build end-to-end software: APIs, backends and web apps
+- 💼 **Open to full-time Data Analyst / Junior Data Scientist roles in Pune**
 
 ---
 
@@ -39,6 +39,13 @@
 
 ### 🛠️ Tech stack
 
+**Data & ML**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
 **Languages**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -53,13 +60,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-
-**Data & ML**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 **Databases & DevOps**
 
