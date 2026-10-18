@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Suryvanshi;Aspiring+Data+Analyst;Python+%7C+SQL+%7C+pandas+%7C+A%2FB+Testing" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rahul+Suryvanshi;Data+Analyst+%7C+Data+Scientist+%7C+ML;Python+%7C+SQL+%7C+pandas+%7C+scikit-learn" alt="Typing intro" />
 
 <p>
   <a href="https://github.com/rahulsuryvanshi810"><img src="https://img.shields.io/github/followers/rahulsuryvanshi810?label=Follow&style=social" alt="GitHub followers" /></a>
@@ -13,8 +13,9 @@
 
 ### 👨‍💻 About me
 
-- 📊 Aspiring **Data Analyst**: I turn data into clear business decisions
+- 📊 Aspiring **Data Analyst / Data Scientist / ML Engineer**: I turn data into clear business decisions
 - 🧪 Experiment analysis: A/B tests, confidence intervals, uplift modeling and measuring what a model is really worth
+- 🤖 Machine learning: classification, regression, gradient boosting, model evaluation
 - 🐍 Python (pandas, NumPy, Matplotlib, scikit-learn) and SQL
 - 🎓 Final-year Computer Engineering (Data Science), graduating 2027
 - 🧱 I also build end-to-end software: APIs, backends and web apps
