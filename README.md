@@ -29,6 +29,7 @@
 |---|---|---|
 | 📈 [**uplift-targeting**](https://github.com/rahulsuryvanshi810/uplift-targeting) | Causal uplift modeling on a 64k-customer randomized e-mail experiment. Finds who buys *because of* the e-mail; the selected policy captures **75% of the lift with 50% of the e-mails**. | Python, scikit-learn, pandas |
 | 🗄️ [**music-store-sql-analysis**](https://github.com/rahulsuryvanshi810/music-store-sql-analysis) | 12 business questions on a music store's sales in SQL (joins, CTEs, window functions). Top 5 countries = **59% of revenue**; **43% of the catalogue never sold**. CSV exports for Power BI. | SQL, SQLite, Python |
+| 📉 [**customer-churn-prediction**](https://github.com/rahulsuryvanshi810/customer-churn-prediction) | Predicts which of 7,043 telecom customers will leave (ROC-AUC **0.85**); calling the riskiest **30% reaches 65% of churners**. | Python, scikit-learn, pandas |
 | 🛡️ [**llm-redteam**](https://github.com/rahulsuryvanshi810/llm-redteam) | Red-teaming harness for LLMs: prompt-injection suites, canary-based judging, bootstrap CIs, defense comparison | Python |
 | 🔀 [**llm-gateway**](https://github.com/rahulsuryvanshi810/llm-gateway) | LLM API gateway with Redis caching and rate limiting, API keys, input/output guardrails | TypeScript, Fastify, Redis, Postgres |
 | 🚦 [**sentinel-gateway**](https://github.com/rahulsuryvanshi810/sentinel-gateway) | API gateway with a distributed rate limiter on Redis Lua scripts, load balancing, circuit breaking | Node.js, Redis, Prometheus |
