@@ -27,6 +27,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| 📊 [**darkstore-pulse-bi**](https://github.com/rahulsuryvanshi810/darkstore-pulse-bi) · [live](https://rahulsuryvanshi810.github.io/darkstore-pulse-bi/) | Power BI + Tableau dashboards on 97k quick-commerce orders from 8 Pune dark stores. Only **54% meet the 10-min promise**; rain drops on-time to **40%**. | Power BI, DAX, Tableau, Python |
 | 📈 [**uplift-targeting**](https://github.com/rahulsuryvanshi810/uplift-targeting) | Causal uplift modeling on a 64k-customer randomized e-mail experiment. Finds who buys *because of* the e-mail; the selected policy captures **75% of the lift with 50% of the e-mails**. | Python, scikit-learn, pandas |
 | 🗄️ [**music-store-sql-analysis**](https://github.com/rahulsuryvanshi810/music-store-sql-analysis) | 12 business questions on a music store's sales in SQL (joins, CTEs, window functions). Top 5 countries = **59% of revenue**; **43% of the catalogue never sold**. CSV exports for Power BI. | SQL, SQLite, Python |
 | 📉 [**customer-churn-prediction**](https://github.com/rahulsuryvanshi810/customer-churn-prediction) | Predicts which of 7,043 telecom customers will leave (ROC-AUC **0.85**); calling the riskiest **30% reaches 65% of churners**. | Python, scikit-learn, pandas |
