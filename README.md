@@ -27,6 +27,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| 📈 [**bullscope**](https://github.com/rahulsuryvanshi810/bullscope) · [live](https://rahulsuryvanshi810.github.io/bullscope/) | Indian stock market, F&O, mutual fund & crypto analytics: live news & videos, option-chain strategy builder, 80 scored funds, portfolio prediction, goal planner. Showed technical/ML signals have **no 20-day edge (AUC 0.51)**. | Python, ECharts, Power BI, Tableau |
 | 📊 [**darkstore-pulse-bi**](https://github.com/rahulsuryvanshi810/darkstore-pulse-bi) · [live](https://rahulsuryvanshi810.github.io/darkstore-pulse-bi/) | Power BI + Tableau dashboards on 97k quick-commerce orders from 8 Pune dark stores. Only **54% meet the 10-min promise**; rain drops on-time to **40%**. | Power BI, DAX, Tableau, Python |
 | 📈 [**uplift-targeting**](https://github.com/rahulsuryvanshi810/uplift-targeting) | Causal uplift modeling on a 64k-customer randomized e-mail experiment. Finds who buys *because of* the e-mail; the selected policy captures **75% of the lift with 50% of the e-mails**. | Python, scikit-learn, pandas |
 | 🗄️ [**music-store-sql-analysis**](https://github.com/rahulsuryvanshi810/music-store-sql-analysis) | 12 business questions on a music store's sales in SQL (joins, CTEs, window functions). Top 5 countries = **59% of revenue**; **43% of the catalogue never sold**. CSV exports for Power BI. | SQL, SQLite, Python |
