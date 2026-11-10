@@ -20,6 +20,7 @@
 - 🎓 Final-year Computer Engineering (Data Science), graduating 2027
 - 🧱 I also build end-to-end software: APIs, backends and web apps
 - 💼 **Open to full-time Data Analyst / Junior Data Scientist roles in Pune**
+- 🌐 Portfolio: **[rahulsuryvanshi810.github.io](https://rahulsuryvanshi810.github.io/)**
 
 ---
 
